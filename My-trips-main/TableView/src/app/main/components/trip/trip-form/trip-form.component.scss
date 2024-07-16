@@ -1,0 +1,26 @@
+.button {
+  background-color: rgb(42, 22, 106);
+  color: #fff;
+  font-size: 16px;
+  padding: 5px 20px;
+  border-radius: 20px;
+  border: none;
+  transition-duration: 0.4s;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: rgb(21, 9, 60);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 16px;
+}
+
+.button-container .button {
+  margin: 0 8px;
+}

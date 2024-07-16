@@ -1,0 +1,224 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstname": "Popa",
+      "lastname": "Maria",
+      "email": "maria99@gmail.com",
+      "password": "1"
+    },
+    {
+      "id": 2,
+      "firstname": "John",
+      "lastname": "Rusu",
+      "email": "john99@gmail.com",
+      "password": "3"
+    },
+    {
+      "id": 3,
+      "firstname": "Miclea",
+      "lastname": "Ion",
+      "email": "ion99@gmail.com",
+      "password": "1"
+    },
+    {
+      "id": 4,
+      "email": "diana@gmail.com",
+      "firstname": "Diana",
+      "lastname": "Diana",
+      "password": "1"
+    },
+    {
+      "id": 5,
+      "email": "olivia@gmail.com",
+      "firstname": "Olivia",
+      "lastname": "Olivia",
+      "password": "olivia123O#"
+    },
+    {
+      "id": 6,
+      "email": "olivia@gmail.com",
+      "firstname": "Olivia",
+      "lastname": "Olivia",
+      "password": "olivia123O#"
+    }
+  ],
+  "trips": [
+    {
+      "country": "France",
+      "city": "Paris",
+      "attraction": "Eiffel -Tower",
+      "restaurant": "Le Jules Verne",
+      "image": "assets/images/paris.jpg",
+      "id": 1,
+      "userEmail": "maria99@gmail.com",
+      "likes": 4,
+      "likedByCurrentUser": false
+    },
+    {
+      "id": 2,
+      "userEmail": "john99@gmail.com",
+      "country": "Spain",
+      "city": "Barcelona",
+      "attraction": "Sagrada Familia",
+      "restaurant": "La Pergola",
+      "likes": 9,
+      "image": "assets/images/barcelona.jpg",
+      "likedByCurrentUser": false
+    },
+    {
+      "id": 3,
+      "userEmail": "maria99@gmail.com",
+      "country": "Slovenia",
+      "city": "Lubliana",
+      "attraction": "Ljubljana Castle",
+      "restaurant": "La Pergola",
+      "likes": 12,
+      "image": "assets/images/lubliana.jpg",
+      "likedByCurrentUser": false
+    },
+    {
+      "id": 4,
+      "userEmail": "john99@gmail.com",
+      "country": "Austria",
+      "city": "Viena",
+      "attraction": "Schonbrunn Palace",
+      "restaurant": "Steirereck",
+      "likes": 6,
+      "image": "assets/images/viena.jpg",
+      "likedByCurrentUser": false
+    },
+    {
+      "country": "Hungary",
+      "city": "Budapest",
+      "attraction": "Fisherman's Castle",
+      "restaurant": "Onixy",
+      "image": "assets/images/budapesta.jpg",
+      "id": 5,
+      "userEmail": "maria99@gmail.com",
+      "likes": 6,
+      "likedByCurrentUser": false
+    },
+    {
+      "id": 6,
+      "userEmail": "john99@gmail.com",
+      "country": "Switzerland",
+      "city": "Geneva",
+      "attraction": "Lake Geneva",
+      "restaurant": "The Restaurant",
+      "likes": 8,
+      "image": "assets/images/geneva.jpg",
+      "likedByCurrentUser": false
+    },
+    {
+      "country": "Roumania",
+      "city": "Brasov",
+      "attraction": "Tampa",
+      "restaurant": "Cerbul Carpatin",
+      "image": "assets/default.jpg",
+      "id": 7,
+      "userEmail": "maria99@gmail.com",
+      "likes": 2,
+      "likedByCurrentUser": false
+    },
+    {
+      "country": "Roumania",
+      "city": "Cluj-Napoca",
+      "attraction": "Opera",
+      "restaurant": "La Mama-Mia",
+      "image": "assets/default.jpg",
+      "id": 8,
+      "userEmail": "maria99@gmail.com",
+      "likes": 1,
+      "likedByCurrentUser": false
+    },
+    {
+      "country": "Turkey",
+      "city": "Istanbul",
+      "attraction": "Topkapi Palate",
+      "restaurant": "Crizyu",
+      "image": "assets/default.jpg",
+      "id": 9,
+      "userEmail": "john99@gmail.com",
+      "likes": 1,
+      "likedByCurrentUser": false
+    },
+    {
+      "country": "Greece",
+      "city": "Athena",
+      "attraction": "Old Town",
+      "restaurant": "Kiruui Terassa",
+      "image": "assets/default.jpg",
+      "id": 10,
+      "userEmail": "john99@gmail.com",
+      "likes": 2,
+      "likedByCurrentUser": false
+    },
+    {
+      "country": "Croatia",
+      "city": "Zagreb",
+      "attraction": "Slmjene-Park",
+      "restaurant": "Panorama Restaurant",
+      "image": "assets/default.jpg",
+      "id": 11,
+      "userEmail": "maria99@gmail.com",
+      "likes": 1,
+      "likedByCurrentUser": false
+    },
+    {
+      "country": "Roumania",
+      "city": "Sambata de Sus",
+      "attraction": "Mountains",
+      "restaurant": "Sambata Chalet",
+      "image": "assets/default.jpg",
+      "id": 12,
+      "userEmail": "diana@gmail.com",
+      "likes": 2,
+      "likedByCurrentUser": false
+    },
+    {
+      "country": "Norway",
+      "city": "Oslo-downtown",
+      "attraction": "Lake Onix",
+      "restaurant": "Merbel Restaurant",
+      "image": "assets/default.jpg",
+      "id": 13,
+      "userEmail": "maria99@gmail.com",
+      "likes": 0,
+      "likedByCurrentUser": false
+    },
+    {
+      "country": "Roumania",
+      "city": "Iasi",
+      "attraction": "Culturii Palace",
+      "restaurant": "Iulius Mall",
+      "image": "assets/default.jpg",
+      "id": 14,
+      "userEmail": "maria99@gmail.com",
+      "likes": 1,
+      "likedByCurrentUser": true
+    },
+    {
+      "country": "Spain",
+      "city": "Barcelona",
+      "attraction": "Sagrada Familia",
+      "restaurant": "La Hefe",
+      "image": "assets/default.jpg",
+      "id": 15,
+      "userEmail": "olivia@gmail.com",
+      "likes": 1,
+      "likedByCurrentUser": true
+    },
+    {
+      "country": "Portugal",
+      "city": "Lisbon",
+      "attraction": "Mosteiro dos Jerónimos",
+      "restaurant": "El Comandor",
+      "image": "assets/default.jpg",
+      "id": 16,
+      "userEmail": "olivia@gmail.com",
+      "likes": 1,
+      "likedByCurrentUser": true
+    }
+  ]
+}
